@@ -1,7 +1,7 @@
-#Minecraft-digging-bot
+# Minecraft-digging-bot
 I am trying to do minecraft digging bot only with computer vision. I am not accesing data from minecraft directly on purpose. This is work in progress
 
-#Installation
+## Installation
 Download newest version of python from https://www.python.org/downloads/
 
 To install all necesary packages and libraries for python, open terminal (cmd) and paste those lines:
@@ -27,4 +27,4 @@ Download and install Tesseract-OCR: https://github.com/UB-Mannheim/tesseract/wik
 
 Specific minecraft font is required: https://www.curseforge.com/minecraft/texture-packs/tech-rpg-font/download/4455712 Download it and put whole zip in "\AppData\Roaming.minecraft\resourcepacks".
 
-Run minecraft with optifine in full sized window with screen resolution 1920x1080. Use downloaded resource pack and set interface size to 4.
+Run minecraft with optifine in full sized window (not full screen) with screen resolution 1920x1080. Use downloaded resource pack and set interface size to 3.
